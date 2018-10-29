@@ -1,4 +1,4 @@
---Create a query that collects all of the rows whose "source" is "AC"
+d--Create a query that collects all of the rows whose "source" is "AC"
 SELECT * FROM wordassociation.wordassociation WHERE source = 'AC';
 
 --Create a query that collects all of the rows whose "source" is "BC"
